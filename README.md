@@ -1,16 +1,29 @@
-# Olá, eu sou Janaylle 👋
+Hey, I'm Elly 👋
+Computer Science Student | Software & Technology 💻
 
-Estudante de programação com foco em jogos, front-end e desenvolvimento.  
-Explorando tecnologias como Python, HTML, CSS, C#, JavaScript e algoritmos enquanto crio e compartilho projetos.  
-Em busca de aprendizado contínuo e novos desafios.
+I'm a Computer Science student exploring different areas of technology through personal projects and hands-on learning.
+Currently exploring software development, front-end, game development, and cybersecurity — while figuring out where I want to go next.
 
-## Sobre mim
-- 📚 Estudando: HTML, CSS, C#, Python, JavaScript e Algoritmos  
-- 🎯 Focada em: Desenvolvimento Front-End, Jogos e GitHub  
-- 🚀 Aspirando a: Contribuir para projetos Open Source e crescer como desenvolvedora
+What I'm exploring
 
-## Contato
+- Python
+- C#
+- HTML & CSS
+- JavaScript
+- React
+- Game Development
+- Front-end Development
+- Cybersecurity
+
+Projects
+
+I enjoy turning ideas into small projects, experiments, and interactive experiences while learning new technologies along the way.
+
+Portfolio: https://elly0x.github.io/
+
+Currently
+Learning, building, experimenting, and figuring things out.
+
+«Learning by building.»
 - 📧 Email: sjanaylle@gmail.com  
 - 💼 LinkedIn: [Janaylle S.](https://www.linkedin.com/in/janaylle-s-007185223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-Obrigada por visitar meu perfil! Estou sempre aberta a aprender e colaborar em novos projetos. 😊
