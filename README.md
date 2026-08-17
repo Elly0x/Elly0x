@@ -1,29 +1,32 @@
-Hey, I'm Elly 👋
-Computer Science Student | Software & Technology 💻
+<h1 align="center">Hi there, I'm Elly! 👋</h1>
 
+<p align="center">
+  Computer Science Student | Software & Technology 💻  
+  
 I'm a Computer Science student exploring different areas of technology through personal projects and hands-on learning.
-Currently exploring software development, front-end, game development, and cybersecurity — while figuring out where I want to go next.
+</p>
 
-What I'm exploring
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://SEU-PORTFOLIO.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FFC107?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+</p>
 
-- Python
-- C#
-- HTML & CSS
-- JavaScript
-- React
-- Game Development
-- Front-end Development
-- Cybersecurity
+---
 
-Projects
+### Tech Stack
 
-I enjoy turning ideas into small projects, experiments, and interactive experiences while learning new technologies along the way.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,cpp,c,java,php,html,css,react,nodejs,git,github,vscode,linux,docker" />
+</p>
 
-Portfolio: https://elly0x.github.io/
+---
 
-Currently
-Learning, building, experimenting, and figuring things out.
+### Contribuições
 
-«Learning by building.»
-- 📧 Email: sjanaylle@gmail.com  
-- 💼 LinkedIn: [Janaylle S.](https://www.linkedin.com/in/janaylle-s-007185223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph-dark.svg" />
+</p>
