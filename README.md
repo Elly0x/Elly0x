@@ -25,8 +25,6 @@ I'm a Computer Science student exploring different areas of technology through p
 
 ---
 
-### Contribuições
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elly0x/Elly0x/output/pacman-contribution-graph-dark.svg" />
 </p>
